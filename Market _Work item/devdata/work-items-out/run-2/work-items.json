@@ -1,0 +1,26 @@
+[
+    {
+        "payload": {
+            "Company_Symbol": {
+                "country": "XXYZ"
+            }
+        },
+        "files": {}
+    },
+    {
+        "payload": {
+            "Company_Symbol": {
+                "country": "BHDUSD"
+            }
+        },
+        "files": {}
+    },
+    {
+        "payload": {
+            "Company_Symbol": {
+                "country": "AAP"
+            }
+        },
+        "files": {}
+    }
+]

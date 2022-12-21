@@ -1,0 +1,58 @@
+[
+    {
+        "payload": {
+            "Company_Symbol": {
+                "country": "XXYZ"
+            }
+        },
+        "files": {}
+    },
+    {
+        "payload": {
+            "Company_Symbol": {
+                "country": "BHDUSD"
+            }
+        },
+        "files": {}
+    },
+    {
+        "payload": {
+            "Company_Symbol": {
+                "country": "AAP"
+            }
+        },
+        "files": {}
+    },
+    {
+        "payload": {
+            "Company_Symbol": {
+                "country": "EURUSD"
+            }
+        },
+        "files": {}
+    },
+    {
+        "payload": {
+            "Company_Symbol": {
+                "country": "MRVL"
+            }
+        },
+        "files": {}
+    },
+    {
+        "payload": {
+            "Company_Symbol": {
+                "country": "UBS"
+            }
+        },
+        "files": {}
+    },
+    {
+        "payload": {
+            "Company_Symbol": {
+                "country": "AAPL"
+            }
+        },
+        "files": {}
+    }
+]
